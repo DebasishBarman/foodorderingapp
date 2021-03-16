@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Mini Project</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string-array name="food_category">
+        <item>Select a category</item>
+        <item>Veg Meals</item>
+        <item>Non-Veg Meals</item>
+        <item>Cakes</item>
+        <item>Cold Drink</item>
+        <item>Pizza</item>
+        <item>Dessert</item>
+        <item>Sweets</item>
+        <item>Fast Food</item>
+    </string-array>
+
+</resources>
